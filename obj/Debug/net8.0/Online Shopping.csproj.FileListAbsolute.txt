@@ -1,0 +1,56 @@
+C:\Users\Noha Q\source\repos\Online Shopping\bin\Debug\net8.0\Online Shopping.exe
+C:\Users\Noha Q\source\repos\Online Shopping\bin\Debug\net8.0\Online Shopping.deps.json
+C:\Users\Noha Q\source\repos\Online Shopping\bin\Debug\net8.0\Online Shopping.runtimeconfig.json
+C:\Users\Noha Q\source\repos\Online Shopping\bin\Debug\net8.0\Online Shopping.dll
+C:\Users\Noha Q\source\repos\Online Shopping\bin\Debug\net8.0\Online Shopping.pdb
+C:\Users\Noha Q\source\repos\Online Shopping\obj\Debug\net8.0\Online Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noha Q\source\repos\Online Shopping\obj\Debug\net8.0\Online Shopping.AssemblyInfoInputs.cache
+C:\Users\Noha Q\source\repos\Online Shopping\obj\Debug\net8.0\Online Shopping.AssemblyInfo.cs
+C:\Users\Noha Q\source\repos\Online Shopping\obj\Debug\net8.0\Online Shopping.csproj.CoreCompileInputs.cache
+C:\Users\Noha Q\source\repos\Online Shopping\obj\Debug\net8.0\Online Shopping.dll
+C:\Users\Noha Q\source\repos\Online Shopping\obj\Debug\net8.0\refint\Online Shopping.dll
+C:\Users\Noha Q\source\repos\Online Shopping\obj\Debug\net8.0\Online Shopping.pdb
+C:\Users\Noha Q\source\repos\Online Shopping\obj\Debug\net8.0\Online Shopping.genruntimeconfig.cache
+C:\Users\Noha Q\source\repos\Online Shopping\obj\Debug\net8.0\ref\Online Shopping.dll
+C:\Users\Noha Q\OneDrive\Skrivbord\Online Shopping,\Online Shopping\bin\Debug\net8.0\Online Shopping.exe
+C:\Users\Noha Q\OneDrive\Skrivbord\Online Shopping,\Online Shopping\bin\Debug\net8.0\Online Shopping.deps.json
+C:\Users\Noha Q\OneDrive\Skrivbord\Online Shopping,\Online Shopping\bin\Debug\net8.0\Online Shopping.runtimeconfig.json
+C:\Users\Noha Q\OneDrive\Skrivbord\Online Shopping,\Online Shopping\bin\Debug\net8.0\Online Shopping.dll
+C:\Users\Noha Q\OneDrive\Skrivbord\Online Shopping,\Online Shopping\bin\Debug\net8.0\Online Shopping.pdb
+C:\Users\Noha Q\OneDrive\Skrivbord\Online Shopping,\Online Shopping\obj\Debug\net8.0\Online Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noha Q\OneDrive\Skrivbord\Online Shopping,\Online Shopping\obj\Debug\net8.0\Online Shopping.AssemblyInfoInputs.cache
+C:\Users\Noha Q\OneDrive\Skrivbord\Online Shopping,\Online Shopping\obj\Debug\net8.0\Online Shopping.AssemblyInfo.cs
+C:\Users\Noha Q\OneDrive\Skrivbord\Online Shopping,\Online Shopping\obj\Debug\net8.0\Online Shopping.csproj.CoreCompileInputs.cache
+C:\Users\Noha Q\OneDrive\Skrivbord\Online Shopping,\Online Shopping\obj\Debug\net8.0\Online Shopping.dll
+C:\Users\Noha Q\OneDrive\Skrivbord\Online Shopping,\Online Shopping\obj\Debug\net8.0\refint\Online Shopping.dll
+C:\Users\Noha Q\OneDrive\Skrivbord\Online Shopping,\Online Shopping\obj\Debug\net8.0\Online Shopping.pdb
+C:\Users\Noha Q\OneDrive\Skrivbord\Online Shopping,\Online Shopping\obj\Debug\net8.0\Online Shopping.genruntimeconfig.cache
+C:\Users\Noha Q\OneDrive\Skrivbord\Online Shopping,\Online Shopping\obj\Debug\net8.0\ref\Online Shopping.dll
+C:\Users\Noha Q\OneDrive\Skrivbord\Design\UppgiftDesign,Kod\Online Shopping,\Online Shopping\bin\Debug\net8.0\Online Shopping.exe
+C:\Users\Noha Q\OneDrive\Skrivbord\Design\UppgiftDesign,Kod\Online Shopping,\Online Shopping\bin\Debug\net8.0\Online Shopping.deps.json
+C:\Users\Noha Q\OneDrive\Skrivbord\Design\UppgiftDesign,Kod\Online Shopping,\Online Shopping\bin\Debug\net8.0\Online Shopping.runtimeconfig.json
+C:\Users\Noha Q\OneDrive\Skrivbord\Design\UppgiftDesign,Kod\Online Shopping,\Online Shopping\bin\Debug\net8.0\Online Shopping.dll
+C:\Users\Noha Q\OneDrive\Skrivbord\Design\UppgiftDesign,Kod\Online Shopping,\Online Shopping\bin\Debug\net8.0\Online Shopping.pdb
+C:\Users\Noha Q\OneDrive\Skrivbord\Design\UppgiftDesign,Kod\Online Shopping,\Online Shopping\obj\Debug\net8.0\Online Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noha Q\OneDrive\Skrivbord\Design\UppgiftDesign,Kod\Online Shopping,\Online Shopping\obj\Debug\net8.0\Online Shopping.AssemblyInfoInputs.cache
+C:\Users\Noha Q\OneDrive\Skrivbord\Design\UppgiftDesign,Kod\Online Shopping,\Online Shopping\obj\Debug\net8.0\Online Shopping.AssemblyInfo.cs
+C:\Users\Noha Q\OneDrive\Skrivbord\Design\UppgiftDesign,Kod\Online Shopping,\Online Shopping\obj\Debug\net8.0\Online Shopping.csproj.CoreCompileInputs.cache
+C:\Users\Noha Q\OneDrive\Skrivbord\Design\UppgiftDesign,Kod\Online Shopping,\Online Shopping\obj\Debug\net8.0\Online Shopping.dll
+C:\Users\Noha Q\OneDrive\Skrivbord\Design\UppgiftDesign,Kod\Online Shopping,\Online Shopping\obj\Debug\net8.0\refint\Online Shopping.dll
+C:\Users\Noha Q\OneDrive\Skrivbord\Design\UppgiftDesign,Kod\Online Shopping,\Online Shopping\obj\Debug\net8.0\Online Shopping.pdb
+C:\Users\Noha Q\OneDrive\Skrivbord\Design\UppgiftDesign,Kod\Online Shopping,\Online Shopping\obj\Debug\net8.0\Online Shopping.genruntimeconfig.cache
+C:\Users\Noha Q\OneDrive\Skrivbord\Design\UppgiftDesign,Kod\Online Shopping,\Online Shopping\obj\Debug\net8.0\ref\Online Shopping.dll
+C:\Users\Noha Q\OneDrive\Skrivbord\System utveklare,Två termin\Design,Kurs 6\UppgiftDesign,min Kod\Online Shopping,\Online Shopping\bin\Debug\net8.0\Online Shopping.exe
+C:\Users\Noha Q\OneDrive\Skrivbord\System utveklare,Två termin\Design,Kurs 6\UppgiftDesign,min Kod\Online Shopping,\Online Shopping\bin\Debug\net8.0\Online Shopping.deps.json
+C:\Users\Noha Q\OneDrive\Skrivbord\System utveklare,Två termin\Design,Kurs 6\UppgiftDesign,min Kod\Online Shopping,\Online Shopping\bin\Debug\net8.0\Online Shopping.runtimeconfig.json
+C:\Users\Noha Q\OneDrive\Skrivbord\System utveklare,Två termin\Design,Kurs 6\UppgiftDesign,min Kod\Online Shopping,\Online Shopping\bin\Debug\net8.0\Online Shopping.dll
+C:\Users\Noha Q\OneDrive\Skrivbord\System utveklare,Två termin\Design,Kurs 6\UppgiftDesign,min Kod\Online Shopping,\Online Shopping\bin\Debug\net8.0\Online Shopping.pdb
+C:\Users\Noha Q\OneDrive\Skrivbord\System utveklare,Två termin\Design,Kurs 6\UppgiftDesign,min Kod\Online Shopping,\Online Shopping\obj\Debug\net8.0\Online Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noha Q\OneDrive\Skrivbord\System utveklare,Två termin\Design,Kurs 6\UppgiftDesign,min Kod\Online Shopping,\Online Shopping\obj\Debug\net8.0\Online Shopping.AssemblyInfoInputs.cache
+C:\Users\Noha Q\OneDrive\Skrivbord\System utveklare,Två termin\Design,Kurs 6\UppgiftDesign,min Kod\Online Shopping,\Online Shopping\obj\Debug\net8.0\Online Shopping.AssemblyInfo.cs
+C:\Users\Noha Q\OneDrive\Skrivbord\System utveklare,Två termin\Design,Kurs 6\UppgiftDesign,min Kod\Online Shopping,\Online Shopping\obj\Debug\net8.0\Online Shopping.csproj.CoreCompileInputs.cache
+C:\Users\Noha Q\OneDrive\Skrivbord\System utveklare,Två termin\Design,Kurs 6\UppgiftDesign,min Kod\Online Shopping,\Online Shopping\obj\Debug\net8.0\Online Shopping.dll
+C:\Users\Noha Q\OneDrive\Skrivbord\System utveklare,Två termin\Design,Kurs 6\UppgiftDesign,min Kod\Online Shopping,\Online Shopping\obj\Debug\net8.0\refint\Online Shopping.dll
+C:\Users\Noha Q\OneDrive\Skrivbord\System utveklare,Två termin\Design,Kurs 6\UppgiftDesign,min Kod\Online Shopping,\Online Shopping\obj\Debug\net8.0\Online Shopping.pdb
+C:\Users\Noha Q\OneDrive\Skrivbord\System utveklare,Två termin\Design,Kurs 6\UppgiftDesign,min Kod\Online Shopping,\Online Shopping\obj\Debug\net8.0\Online Shopping.genruntimeconfig.cache
+C:\Users\Noha Q\OneDrive\Skrivbord\System utveklare,Två termin\Design,Kurs 6\UppgiftDesign,min Kod\Online Shopping,\Online Shopping\obj\Debug\net8.0\ref\Online Shopping.dll
